@@ -1,0 +1,3 @@
+C:/Users/admin/OneDrive - Univerzita Komenskeho v Bratislave/programovanie3/Project/project/cmake-build-debug/CMakeFiles/PROJECT.dir
+C:/Users/admin/OneDrive - Univerzita Komenskeho v Bratislave/programovanie3/Project/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/OneDrive - Univerzita Komenskeho v Bratislave/programovanie3/Project/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

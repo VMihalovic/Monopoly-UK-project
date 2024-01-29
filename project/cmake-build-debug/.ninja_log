@@ -1,0 +1,22 @@
+# ninja log v5
+460	2533	7188524182376132	cvicenie4.exe	90b41b7c3d6674a3
+1	227	7282456635473800	build.ninja	6ace19bb9d19e03
+6	196	7282456741871253	CMakeFiles/PROJECT.dir/1_Student.cpp.obj	8d02a9337ec8a7a1
+1	200	7282456741911242	CMakeFiles/PROJECT.dir/2_Cards.cpp.obj	fcf7b4d9a716446f
+24	2101	7282456760903660	CMakeFiles/PROJECT.dir/testyUloha_1.cpp.obj	e881565ebea64f49
+62	4765	7282456787565725	CMakeFiles/PROJECT.dir/GoogleTest/gtest-death-test.cc.obj	569566079c41ec15
+14	143	7282457375363121	CMakeFiles/PROJECT.dir/3_Methods.cpp.obj	2728eb1015076fb2
+10	168	7282457375653025	CMakeFiles/PROJECT.dir/4_LoadCards.cpp.obj	22267575b59e85e7
+5	722	7282457381201250	CMakeFiles/PROJECT.dir/5_Semester.cpp.obj	e910e8d4f7e84e4d
+145	1088	7282457384860900	CMakeFiles/PROJECT.dir/GoogleTest/gtest-filepath.cc.obj	59102a2a8984e684
+41	1237	7282457386350410	CMakeFiles/PROJECT.dir/GoogleTest/gtest-printers.cc.obj	7a0645b4094e00db
+169	1625	7282457390219497	CMakeFiles/PROJECT.dir/GoogleTest/gtest-typed-test.cc.obj	d8c23c0495e34b04
+36	2980	7282457403752617	CMakeFiles/PROJECT.dir/GoogleTest/gtest-test-part.cc.obj	1b31106c1e95cc6f
+48	3688	7282457410710415	CMakeFiles/PROJECT.dir/GoogleTest/gtest-port.cc.obj	fd8813fccc207cb9
+26	1120	7282457977580275	CMakeFiles/PROJECT.dir/GoogleTest/gtest_main.cc.obj	f277002ff2fd9df
+14	1273	7282457979099765	CMakeFiles/PROJECT.dir/testyUloha_4.cpp.obj	34ea1a0d575bed88
+10	1382	7282457980189644	CMakeFiles/PROJECT.dir/testyUloha_3.cpp.obj	fe97aa95fea2b46f
+18	1406	7282457980429563	CMakeFiles/PROJECT.dir/testyUloha_5.cpp.obj	24aa3756812904da
+5	1544	7282457981798925	CMakeFiles/PROJECT.dir/testyUloha_2.cpp.obj	39c27cc1fe83ec50
+22	5229	7282458018479613	CMakeFiles/PROJECT.dir/GoogleTest/gtest.cc.obj	e64231bbbde3e066
+5231	7458	7282458040653842	PROJECT.exe	db2017681b0e4774
